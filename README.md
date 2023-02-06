@@ -1,4 +1,4 @@
-# eBookstore-Database
+# Bookstore-Database
 This Python program serves as a backend stock SQLite database for a bookstore. The user is able to add new books, update book information, delete books, & search from the database to find a specific book.
 
 ## Install
